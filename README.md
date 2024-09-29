@@ -7,3 +7,5 @@
 4. **Add a new txt file** with your username as the file name and type your group number inside the file.
 5. **Commit and push** to your remote repository.
 6. **Pull request** to the original repository.
+
+**Remember to use your username as file name, and the file only contains group number!**
